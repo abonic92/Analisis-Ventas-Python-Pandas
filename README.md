@@ -1,5 +1,3 @@
-﻿# Analisis-Ventas-Python-Pandas
-
 # 📈 Análisis con Python y Pandas
 
 ## Descripción del Proyecto
@@ -32,3 +30,4 @@ Para replicar este análisis, seguí los siguientes pasos:
 - **Bonfanti Adrian **
 
 ---
+
